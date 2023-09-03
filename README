@@ -1,6 +1,6 @@
 ===========
 description
 ===========
-this exercise demonstrate a centralized model of the bitcoin secure paying system, with a Bank instance
+demonstration of the centralized model of the bitcoin secure paying system, with a Bank instance
 that serves as the centralized bitcoin system that holds the different data structures:
 utxo, mempool, and the blockchain.
